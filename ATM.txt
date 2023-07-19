@@ -7,7 +7,7 @@ public class ATM {
 	public static void main(String[] args) {
 		int balance = 100000, withdraw, deposit;
 		Scanner sc = new Scanner(System.in);
-
+  haha
 		while (true) {
 			System.out.println(" Welcome Automated Teller Machine :-");
 			System.out.println("Choose 1 for Withdraw :");
